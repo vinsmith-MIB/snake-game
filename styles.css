@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gameDisplay {
+    background-color: rgb(121, 122, 122);
+    padding: 12px;
+}
+.gameDisplay div {
+    height: 40px;
+}
+#canvas {
+    border: 1px solid black;
+    background-color: aquamarine;
+
+}
